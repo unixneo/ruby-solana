@@ -1,7 +1,7 @@
 module Solana
   module Program
     class System < Base
-      PROGRAM_ID = '67mPYhRBVCByzLvaeb1AqDdJrYaUXXMqsW7YUPjyfYbx'
+      PROGRAM_ID = '11111111111111111111111111111111'
       SYSVAR_RENT_ID = 'SysvarRent111111111111111111111111111111111'
 
       INSTRUCTION_LAYOUTS = {
