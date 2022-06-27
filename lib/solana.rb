@@ -10,6 +10,7 @@ require "solana/sedes/layout"
 require "solana/program/base"
 require "solana/program/system"
 require "solana/program/token"
+require "solana/program/hello_world"
 require "solana/program/associated_token"
 require "solana/utils"
 
