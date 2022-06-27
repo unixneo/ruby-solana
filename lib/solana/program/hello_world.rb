@@ -2,7 +2,7 @@ module Solana
   module Program
     class HelloWorld < Base
       PROGRAM_ID = '67mPYhRBVCByzLvaeb1AqDdJrYaUXXMqsW7YUPjyfYbx'
-      SYSVAR_RENT_ID = 'SysvarRent67mPYhRBVCByzLvaeb1AqDdJrYaUXXMqsW7YUPjyfYbx'
+      SYSVAR_RENT_ID = 'SysvarRent111111111111111111111111111111111'
 
       INSTRUCTION_LAYOUTS = {
         # transfer
