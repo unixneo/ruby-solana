@@ -19,7 +19,7 @@ module Solana
 
           keys = [
             { pubkey: from_pubkey, is_signer: true, is_writable: true },
-            { pubkey: to_pubkey, is_signer: false, is_writable: true }
+            { pubkey: to_pubkey, is_signer: false, is_writable: false}
           ]
 
           represent(keys, data)
